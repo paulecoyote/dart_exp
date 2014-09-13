@@ -1,0 +1,5 @@
+name: dart_exp
+version: 0.1.0
+description: Basis for a dart experiment.  You need to rename things etc.  See README.md for details.
+dependencies:
+  browser: '>=0.10.0+2 <0.11.0'
