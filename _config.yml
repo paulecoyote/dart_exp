@@ -1,0 +1,23 @@
+#TODO: Update this file!
+top-title: dart_exp 
+top-tagline: Dart Experiment
+
+todomessage: TODO - Please edit the _config.yml file with your project details.
+
+author:
+  name: YOUR NAME HERE
+  github: YOUR_GITHUB_USERNAME
+  page: https://github.com/YOUR_GITHUB_USERNAME
+
+permalink: /blog/:year/:month/:day/:title
+
+baseurl: /dart_exp
+
+project:
+  name: YOUR_GITHUB_PROJECT_NAME
+  view: https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_PROJECT_NAME
+  trackercode: UA-53984713-2
+  dartappfile: dart_exp.dart
+  download: 
+    tar: https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_PROJECT_NAME/tarball/master
+    zip: https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_PROJECT_NAME/zipball/master

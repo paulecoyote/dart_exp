@@ -1,0 +1,20 @@
+---
+Time-stamp: <2014-08-28 04:30:14 ()>
+layout: default
+title: Releases
+tagline: Released Versions
+---
+
+## Playable Versions
+
+Click links below to play with a hosted version of this project.
+
+<ul>
+{% for page in site.static_files %}
+{% if page.path contains 'v' and page.path contains 'index.html' %}
+<li>
+  <a href="{{ site.baseurl }}{{ page.path }}">{{ site.baseurl }}{{ page.path }}</a>
+</li>
+{% endif %} <!-- page-category -->
+{% endfor %} <!-- page -->
+</ul>
